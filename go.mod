@@ -1,3 +1,3 @@
-module yuheng.io/tfrecord
+module github.com/kuangyh/tfrecord
 
 go 1.13
